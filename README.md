@@ -5,13 +5,6 @@
 - 📫 email : guime.verissimo456@gmail.com
 - 🌍 Fan de One Piece
 
-<div>
-    <!--
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guime3006&count_private=true&show_icons=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guime3006&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
---!>
-</div>
-
 <div style="display: inline-block;"><br>
     <img alt="html5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
     <img alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
