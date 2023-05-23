@@ -2,6 +2,7 @@
 
 - 🤝 Aberto a proposta de trabalho ...
 - 🧑‍💻 Estudando JS/NodeJS/React
+- 👨‍🏫 Me preparando para LPIC-1
 - 📫 email : guime.verissimo456@gmail.com
 - 🌍 Fan de One Piece
 
