@@ -17,9 +17,9 @@
     <img alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img alt="Ubuntu" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />       
 </div>
-  
+<!--
  <br>
- <a href="https://www.linkedin.com/in/guilherme-ver%C3%ADssimo-7a6b54136/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image linkedln"      target="_blank"></a>
+ <a href="https://www.linkedin.com/in/guilherme-ver%C3%ADssimo-7a6b54136/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="image linkedln"      target="_blank"></a> -->
 
 ## Workspace Specs
 
