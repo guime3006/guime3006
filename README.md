@@ -26,8 +26,10 @@
 <div>
     <a href="https://open.spotify.com/user/guime.verissimo456?si=4892690246c34d8f" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="image spotify" target="_blank"></a>
     <a href="#"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="image vs code"></a>
+    <!--
     <a href="#"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="image powershell" target="_blank"> </a>
     <a href="#"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="image git" target="_blank"> </a>
+    -->
     <a href="#"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="so ubuntu" target="_blank"> </a>
 </div>
 
